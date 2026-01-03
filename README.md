@@ -1,4 +1,5 @@
-# Решение задач LeetCode на C++, LeetCode_Je_Code
+# LeetCode_Je_Code
+# Решение задач LeetCode на C++
 # Salnikov_EV
 
 # 1 Longest Substring Without Repeating Characters
